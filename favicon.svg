@@ -1,13 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <rect width="64" height="64" rx="12" fill="#0F172A"/>
-  <rect x="0" y="0" width="4" height="64" rx="2" fill="#F59E0B"/>
-  <text
-    x="34"
-    y="44"
-    font-family="Playfair Display, Georgia, serif"
-    font-size="34"
-    font-weight="900"
-    fill="#E2E8F0"
-    text-anchor="middle"
-  >CM</text>
+  <rect width="64" height="64" rx="12" fill="#0e0e0e"/>
+  <text x="29" y="44" font-family="Archivo, 'Arial Black', Helvetica, sans-serif" font-size="38" font-weight="900" fill="#fafaf9" text-anchor="middle">m</text>
+  <circle cx="51" cy="41" r="4.5" fill="#e23915"/>
 </svg>
